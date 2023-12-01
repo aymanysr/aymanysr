@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aimane Yousr</h1>
 <h3 align="center">Passionate Web Developer with a Multilingual Edge</h3>
 
-- 🌱 I’m currently learning **C, Ruby on rails and Javascript** and starting **Python** soon !
+- 🌱 I’m currently learning **C, Ruby on rails and Javascript** and **Python**  !
 
 - 👯 I’m looking to collaborate on **Open source projects!**
 
